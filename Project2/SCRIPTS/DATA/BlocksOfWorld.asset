@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 908d79089ae42594082153f2efd68ff8, type: 3}
+  m_Name: BlocksOfWorld
+  m_EditorClassIdentifier: 
+  blocks:
+  - {fileID: 6486066936443922154, guid: f1895181abca139478918531da9802ee, type: 3}
+  - {fileID: 8206538488985495001, guid: 86428b75505569e4f949b71527a1c846, type: 3}
+  - {fileID: 5778619723928393731, guid: 7ecd089c1b0e22746bf37f606040733f, type: 3}
+  - {fileID: 3802242707357882912, guid: 5c04ac43d8276fc4880fb0424e881283, type: 3}
+  - {fileID: 8371940989083912289, guid: f9ab3aaa308a52844848a36c928b5f19, type: 3}
+  - {fileID: 1328628214760943482, guid: 8532d0b12e80c624799d5a78797de949, type: 3}
+  - {fileID: 5009299394654008389, guid: 57b36c4435447c948acc46b877f4a759, type: 3}
+  - {fileID: 1162108297040720549, guid: 097c1da3664280f4b8f11d7b04b2dcfa, type: 3}
+  - {fileID: 8613950796022786725, guid: e2ff33b3dd2894a41a823967c184d5eb, type: 3}
+  - {fileID: 6910641922321082535, guid: 841c24f4ef44167419c3669e1504d6ee, type: 3}
